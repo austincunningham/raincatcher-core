@@ -1,7 +1,7 @@
 #!/bin/bash
 ## Script for generating core modules documentation
 
-VERSION=0.0.1
+VERSION=0.0.2
 DOC_FOLDER=docs
 DOCS_LOCATION=$DOC_FOLDER/api
 DOC_PATH=../../$DOCS_LOCATION
